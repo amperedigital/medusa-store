@@ -1679,7 +1679,7 @@
     tailwindcss "^3.3.6"
     vite "^5.2.11"
 
-"@medusajs/admin-sdk@2.3.6":
+"@medusajs/admin-sdk@2.3.2":
   version "2.3.2-snapshot-20250121122339"
   resolved "https://registry.yarnpkg.com/@medusajs/admin-sdk/-/admin-sdk-2.3.2-snapshot-20250121122339.tgz#db88ee429f10cbd518c8393811db8ea8960e9b85"
   integrity sha512-6iLRasFImDr7B3dVHQ/a8Dqz8Qd+WZFsTml5zKLYtVz4h8xi8KwFt6d4XUKDAisNTZhDoS6R3au4Dq9faUA5Wg==
@@ -1752,7 +1752,7 @@
   resolved "https://registry.yarnpkg.com/@medusajs/cart/-/cart-2.3.2-snapshot-20250121122339.tgz#a3d3b7392d33a8bad8ffd6dffa15e179b11e51ab"
   integrity sha512-E5J2AdLUys5VCCpPPYa47X2gqn8gslC3b4shS+LK/GKjgX6CyHnO9Ca2MlouQvJPPTMojT5KK16fJk4fYstVGQ==
 
-"@medusajs/cli@2.3.6":
+"@medusajs/cli@2.3.2":
   version "2.3.2-snapshot-20250121122339"
   resolved "https://registry.yarnpkg.com/@medusajs/cli/-/cli-2.3.2-snapshot-20250121122339.tgz#23b51bf42eb94506aef001a9814f394116174275"
   integrity sha512-QL2MYGg9ydZyBYdCsNG04YRK2pep0ZHVpmd092ZdGXsVv67QOsXa75fJPlSeJECXJt0axFyACEgOs2KvL0ILrw==
@@ -1872,7 +1872,7 @@
   resolved "https://registry.yarnpkg.com/@medusajs/file/-/file-2.3.2-snapshot-20250121122339.tgz#b541ced9062dce9d620d699b6ce973dfc93a4e32"
   integrity sha512-dExITHwySabRdt4tyHUx7magfkgIGG/ZSbNTYSFriVOq1TYjoaYIQvX+nprKYsXDy5i09xyKZS+gA3zkl98bAg==
 
-"@medusajs/framework@2.3.6":
+"@medusajs/framework@2.3.2":
   version "2.3.2-snapshot-20250121122339"
   resolved "https://registry.yarnpkg.com/@medusajs/framework/-/framework-2.3.2-snapshot-20250121122339.tgz#a67b27f41ce3dd689e1c3fb4bbb026bf2105ffea"
   integrity sha512-wiLnbp5bxwE1IYGe5O3MoP7AHoXm6OkWYHAgWRsNCJ+bU1vwoEWEauNLn5+ws54j/vQ3XrD9esanOF3DXOuMow==
@@ -1955,7 +1955,7 @@
   resolved "https://registry.yarnpkg.com/@medusajs/locking/-/locking-2.3.2-snapshot-20250121122339.tgz#9f7ba401331c6d08e6157a52d03a1f6546fe1200"
   integrity sha512-MnM+yjl9V1Qwlz9YzMwXYyTNqnodGM/Kq3KTiXK8hGBx9uiDsoLJqbDH1IxMmNZKKkJsKYuT7MvdrbkiLA4UkA==
 
-"@medusajs/medusa@2.3.6":
+"@medusajs/medusa@2.3.2":
   version "2.3.2-snapshot-20250121122339"
   resolved "https://registry.yarnpkg.com/@medusajs/medusa/-/medusa-2.3.2-snapshot-20250121122339.tgz#ee0d3b5fa6c7805427b62474e614faf2a9428aa6"
   integrity sha512-yO3tiBtolw/QR4/DCKKoEne6hOzynbVcmOjBS6X9cSAT7NBuGHCm4dAc7rOhpPI1Y5VAkEzhbr9ZwkrAgRvgKw==
@@ -2167,7 +2167,7 @@
     remove-trailing-slash "^0.1.1"
     uuid "^8.3.2"
 
-"@medusajs/test-utils@2.3.6":
+"@medusajs/test-utils@2.3.2":
   version "2.3.2-snapshot-20250121122339"
   resolved "https://registry.yarnpkg.com/@medusajs/test-utils/-/test-utils-2.3.2-snapshot-20250121122339.tgz#3ecc52bac398d2cf805ca10e3cbd3c995102f275"
   integrity sha512-ZwRlnVkyziIsf5LxueXh68MckGmwwgFkZvwKnYC5UVSGDXVzzuoDquVUdSe7CJH7rItmfJOynV600j7mpTxJ4w==
