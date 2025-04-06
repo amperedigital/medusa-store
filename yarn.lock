@@ -1679,13 +1679,6 @@
     tailwindcss "^3.3.6"
     vite "^5.2.11"
 
-"@medusajs/admin-sdk@2.3.2":
-  version "2.3.2-snapshot-20250121122339"
-  resolved "https://registry.yarnpkg.com/@medusajs/admin-sdk/-/admin-sdk-2.3.2-snapshot-20250121122339.tgz#db88ee429f10cbd518c8393811db8ea8960e9b85"
-  integrity sha512-6iLRasFImDr7B3dVHQ/a8Dqz8Qd+WZFsTml5zKLYtVz4h8xi8KwFt6d4XUKDAisNTZhDoS6R3au4Dq9faUA5Wg==
-  dependencies:
-    "@medusajs/admin-shared" "2.3.2-snapshot-20250121122339"
-
 "@medusajs/admin-shared@2.3.2-snapshot-20250121122339":
   version "2.3.2-snapshot-20250121122339"
   resolved "https://registry.yarnpkg.com/@medusajs/admin-shared/-/admin-shared-2.3.2-snapshot-20250121122339.tgz#3aff5de035f0df63b127baf7bfea2d7c416808ee"
